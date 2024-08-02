@@ -16,4 +16,5 @@ I am actively seeking new graduate or entry-level SDE & MLE positions. I'm also 
 - Reinforcement Learning
 
 🤝 Feel free to connect for job opportunities, research collaborations, or any engagements within my fields of interest.
+
 📫 Email: meijin@stanford.edu
