@@ -1,4 +1,6 @@
-👋 Hello! I'm Meijin Li, an aspiring Software Engineer currently pursuing my Master's in Computer Science at Stanford, focusing on machine learning engineering and full-stack development.
+# Hello!
+
+👋 I'm Meijin Li, an aspiring Software Engineer currently pursuing my Master's in Computer Science at Stanford, focusing on machine learning engineering and full-stack development.
 
 🎯 What I'm Looking For
 I am actively seeking new graduate or entry-level SDE & MLE positions. I'm also interested in research collaborations in Natural Language Processing (NLP), Computer Vision, and Reinforcement Learning.
