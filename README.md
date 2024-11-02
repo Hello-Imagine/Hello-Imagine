@@ -2,9 +2,6 @@
 
 👋 I'm Meijin Li, an aspiring Software Engineer currently pursuing my Master's in Computer Science at Stanford, focusing on machine learning engineering and full-stack development.
 
-🎯 What I'm Looking For
-I am actively seeking new graduate or entry-level SDE & MLE positions. I'm also interested in research collaborations in Natural Language Processing (NLP), Computer Vision, and Reinforcement Learning.
-
 🌟 Key Achievements
 - ML Algorithm: Enhanced accuracy of LLMs, BERT, and XGBoost for diverse industrial ML tasks.
 - ML Infrastructure: Engineered AWS-based solutions to host ML models withrobust reliability.
@@ -17,6 +14,6 @@ I am actively seeking new graduate or entry-level SDE & MLE positions. I'm also 
 - Computer Vision
 - Reinforcement Learning
 
-🤝 Feel free to connect for job opportunities, research collaborations, or any engagements within my fields of interest.
+🤝 Feel free to connect for any engagements within my fields of interest.
 
 📫 Email: meijin@stanford.edu
